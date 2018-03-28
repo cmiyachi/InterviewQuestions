@@ -1,0 +1,9 @@
+What is The Reason To 'use strict'
+
+1. Makes Debugging Easier
+Some Code Errors that could be ignored is hinted.
+
+2. Prevents Accidental Globals
+If we assign a value to a undeclared varible it becomes a global varible.
+Which is not desireable, and the strict mode hints this as a error.
+
